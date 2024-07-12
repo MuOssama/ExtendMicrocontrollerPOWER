@@ -1,6 +1,5 @@
 # ExtendMicrocontrollerPOWER
 
-
 **Extend Microcontroller POWER** aims to enhance microcontroller capabilities. This repository provides methods for:
 
 - **Increasing PWM Channels**: Use demultiplexers to expand analog outputs.
